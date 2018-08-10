@@ -1,0 +1,24 @@
+.navbar {
+  background-color: #ff1053;
+}
+.navbar-brand {
+  color: white;
+  font-family: 'Hanalei Fill', cursive;
+}
+.footer {
+  font-family: 'Hanalei Fill', cursive;
+}
+
+.btn-group {
+  padding-left: 43%;
+
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #ff1053;
+    color: white;
+    text-align: center;
+}
